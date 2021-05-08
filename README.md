@@ -9,9 +9,11 @@
 - 适配深色模式
 - 重启记忆重连
 
-<img src="https://raw.githubusercontent.com/HongDing97/imgs/main/20210509003650.jpg" style="zoom:15%;" />
-<img src="https://raw.githubusercontent.com/HongDing97/imgs/main/20210509003534.png" style="zoom:15%;" />
-<img src="https://raw.githubusercontent.com/HongDing97/imgs/main/20210509003544.png" style="zoom:15%;" />
+![](https://raw.githubusercontent.com/HongDing97/imgs/main/20210509010232.png)
+
+![](https://raw.githubusercontent.com/HongDing97/imgs/main/20210509010130.png)
+
+![](https://raw.githubusercontent.com/HongDing97/imgs/main/20210509010140.png)
 
 ### Quick Start
 ```cpp
